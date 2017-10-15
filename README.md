@@ -40,7 +40,7 @@
   
 ## **Conclution and posibble improvements**
 
-#### the Rover performs decently so far, it collects samples and drives itself thru the paths avoiding the obstacles (most of the times). However it is not very accurate, some issues happen:
+#### The Rover performs decently so far, it collects samples and drives itself thru the paths avoiding the obstacles (most of the times). However it is not very accurate, some issues happen:
 
 #### When it tries to avoid small obstacles.
 #### It presents erratic movement when is choosing to avoid the walls or collect the samples.
